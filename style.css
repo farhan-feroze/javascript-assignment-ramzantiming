@@ -1,6 +1,6 @@
 body{
     margin: 0;
-    background-image:url(images/2.jpg);
+    background-image:url(images/3.jpg);
     background-repeat: no-repeat;
     background-size:cover;
     color: rgba(255, 255, 255, 0.349);
@@ -8,11 +8,9 @@ body{
 }
 
 .card{
-    background-color: rgba(0, 0, 0, 0.144);
-    border-radius: 15px;
-    box-shadow: 1px 1px 10px 2px azure;
+    
     display: inline-block;
-    margin-top: 3%;
+    margin-top: 20%;
     margin-left: 36%;
     width: 400px;
     padding: 1%;
@@ -21,14 +19,14 @@ body{
 .card h4{
     margin: 5px 0px;
     text-align: center;
-    color: #5e3b5c;
-    font-size: 30px;
+    color: #88cfc5;
+    font-size: 45px;
 }
 
 .card h3{
-    color: #472647;
+    color: #fedc6a;
     margin-top: 0px;
-    font-size: 17px;
+    font-size: 25px;
     text-align: center;
 }
 

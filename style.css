@@ -1,0 +1,38 @@
+body{
+    margin: 0;
+    background-image:url(images/2.jpg);
+    background-repeat: no-repeat;
+    background-size:cover;
+    color: rgba(255, 255, 255, 0.349);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.card{
+    background-color: rgba(0, 0, 0, 0.144);
+    border-radius: 15px;
+    box-shadow: 1px 1px 10px 2px azure;
+    display: inline-block;
+    margin-top: 3%;
+    margin-left: 36%;
+    width: 400px;
+    padding: 1%;
+}
+
+.card h4{
+    margin: 5px 0px;
+    text-align: center;
+    color: #5e3b5c;
+    font-size: 30px;
+}
+
+.card h3{
+    color: #472647;
+    margin-top: 0px;
+    font-size: 17px;
+    text-align: center;
+}
+
+.card p{
+    text-align: center;
+    color: whitesmoke;
+}
